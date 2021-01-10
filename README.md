@@ -1,2 +1,2 @@
 #Inventory-Failover
-Microservice for Inventory-failorver
+Microservice for Inventory-failover
