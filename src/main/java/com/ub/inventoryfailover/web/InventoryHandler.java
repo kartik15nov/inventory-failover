@@ -11,7 +11,7 @@ import java.time.OffsetDateTime;
 import java.util.List;
 import java.util.UUID;
 
-@Component
+//@Component
 public class InventoryHandler {
 
     public Mono<ServerResponse> listInventory(ServerRequest request) {
